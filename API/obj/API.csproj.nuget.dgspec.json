@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\API\\API.csproj": {}
+    "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\API\\API.csproj": {
+    "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Adam.Ray\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\API\\obj\\",
+        "outputPath": "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adam.Ray\\AppData\\Roaming\\NuGet\\NuGet.Config"

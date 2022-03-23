@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lj9jCGzYBmflbM9urFvRIfnMEr/oTw0DGRde2aVf2tPDfbFjfqzFdq8N1mm7N2DCn4V9SYsrqFXFYfCLHvgqfQ==",
+  "dgSpecHash": "cvY2CPQOcpMAOM4IElYSuJL2cJKs3sQOFOzkUdOYBqA2LKNnrXCgIBxPfwNNBCvOrOCR68JgY4UQwiFxopkfNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Adam.Ray\\OneDrive - Perficient, Inc\\Documents\\Projects\\udemy-ecommerce\\Restore\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adam.Ray\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Adam.Ray\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
